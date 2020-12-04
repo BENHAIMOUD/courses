@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "courses"
+  "defaultProject": "courses",
+  "cli": {
+    "analytics": false
+  }
 }
